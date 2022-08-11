@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Privacy Policy for AZWordleBul" />
         <p className="description">
-                  Camanbay built the AZWordleBul - Söz Oyunu app as
+                 <p> Camanbay built the AZWordleBul - Söz Oyunu app as
                   a Free app. This SERVICE is provided by
                   Camanbay at no cost and is intended for use as
                   is.
