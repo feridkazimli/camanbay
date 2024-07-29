@@ -7,7 +7,7 @@ export default function Home() {
         <div className="container">
 
             <Head>
-                <title>Privacy Policy for Line Shot - Basket</title>
+                <title>Privacy Policy for Line Shot - Basket </title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
