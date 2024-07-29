@@ -7,14 +7,14 @@ export default function Home() {
         <div className="container">
 
             <Head>
-                <title>Privacy Policy for AZWordleBul</title>
+                <title>Privacy Policy for Line Shot - Basket</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
             <main>
-                <Header title="Privacy Policy for AZWordleBul" />
+                <Header title="Privacy Policy for Line Shot - Basket" />
                 <p className="description">
-                    <p> Camanbay built the AZWordleBul - Söz Oyunu app as
+                    <p> Camanbay built the Line Shot - Basket - Söz Oyunu app as
                         a Free app. This SERVICE is provided by
                         Camanbay at no cost and is intended for use as
                         is.
@@ -34,7 +34,7 @@ export default function Home() {
                     <p>
                         The terms used in this Privacy Policy have the same meanings
                         as in our Terms and Conditions, which are accessible at
-                        AZWordleBul - Söz Oyunu unless otherwise defined in this Privacy Policy.
+                        Line Shot - Basket - Söz Oyunu unless otherwise defined in this Privacy Policy.
                     </p>
                     <p><strong>Information Collection and Use</strong></p>
                     <p>
