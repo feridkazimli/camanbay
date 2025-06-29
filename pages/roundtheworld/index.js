@@ -1,6 +1,5 @@
 import Head from "next/head";
 
-import '@styles/style.css'
 
 const scrollToSection = (sectionId) => {
   const element = document.getElementById(sectionId);
