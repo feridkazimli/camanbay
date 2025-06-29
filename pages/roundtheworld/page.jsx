@@ -1,7 +1,7 @@
 import Head from 'next/head'
 
 
-export default function RoundTheWorld() {
+export default function Page() {
 
   return (
     <Head>
