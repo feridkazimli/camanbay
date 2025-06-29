@@ -11,7 +11,6 @@ const HeroSection = () => (
   <section
     className="hero"
     id="home"
-    style={{ transform: `translateY(${scrollY * -0.5}px)` }}
   >
     <div className="container">
       <div className="hero-content">
