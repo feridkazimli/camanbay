@@ -406,7 +406,7 @@ export default function Page() {
               name: "Round World: Time Race Game",
               description:
                 "Resmi Round World oyun sayfası. Ücretsiz indir ve puzzle macerasına başla!",
-              url: "https://roundworld.app",
+              url: "https://play.google.com/store/apps/details?id=com.Camanbay.RoundWorld",
               mainEntity: {
                 "@type": "MobileApplication",
                 name: "Round World: Time Race Game",
@@ -418,7 +418,7 @@ export default function Page() {
                     "@type": "ListItem",
                     position: 1,
                     name: "Ana Sayfa",
-                    item: "https://roundworld.app",
+                    item: "https://play.google.com/store/apps/details?id=com.Camanbay.RoundWorld",
                   },
                 ],
               },
